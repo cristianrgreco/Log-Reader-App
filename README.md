@@ -2,6 +2,8 @@
 
 Improve your log reading experience.
 
+App Store link coming soon...
+
 ![](./assets/view.png)
 
 ![](./assets/view-processing.png)
