@@ -2,7 +2,7 @@
 
 Improve your log reading experience.
 
-App Store link coming soon...
+[Link to App Store](https://apps.apple.com/gb/app/log-reader/id6738748053?mt=12)
 
 ![](./assets/view.png)
 
